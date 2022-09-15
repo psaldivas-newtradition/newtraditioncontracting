@@ -1,3 +1,25 @@
-body {
-    background-color: black;
+.page-content { 
+    background: url("wp2288190.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    image-rendering: pixelated;
+  }
+
+.page-body {
+    height: 400px;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 4em;
+    color: orange;
+}
+
+a {
+    color: black !important;
+    font-size: x-large !important;
+}
+
+nav {
+    background-color: rgba(169,169,169,.5);
 }
